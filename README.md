@@ -1,4 +1,13 @@
-c-tcp-server
-============
+TCPserver
+========
 
-Simple tcp server for tcp servers contest
+Usage
+=====
+
+./tcpserver 5555
+
+
+Installation
+============
+    make
+
